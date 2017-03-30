@@ -69,4 +69,6 @@ __Chicago Title__
 * <i class="fa fa-github"></i> <a href="http://github.com/SalMac86">SalMac86</a><br />
 * <i class="fa fa-twitter"></i> <a href="http://twitter.com/salvatoremccar3">salvatoremccar3</a><br />
 * <i class="fa fa-stack-overflow"></i> <a href="https://stackoverflow.com/users/6126907/salvatore-mccarty">salvatore-mccarty</a>
+* <i class="fa fa-home"></i>< <a href="http://salvatoremccarty.com">salvatoremccarty.com />
+
 
