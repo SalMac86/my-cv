@@ -34,13 +34,15 @@ __SoftStack Factory__ Full Stack Bootcamp
 
 ## Technical skills
 
-* HTML and CSS
-* Javascript
+* HTML
+* JavaScript
 * Node.js
 * Ruby
 * MS Excel VBA
 * Angular
 * Ionic
+* CSS
+* Critical Thinking
 
 ## Projects
 
