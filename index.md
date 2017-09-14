@@ -6,7 +6,7 @@ title: Salvatore McCarty's CV
 ![Salvatore](./media/salmed.png){:.avatar}
 
 # Salvatore McCarty
-Software Development Student and Technology aficionado
+Software Development and Technology Enthusiast
 
 <div id="webaddress">
 <a href="mailto:">salvatore.mccarty@gmail.com</a>
