@@ -53,7 +53,7 @@ This was a group project that used Node.js, Ionic/Angular, and MongoDB to create
 ### Farkle (Ten Thousand)
 
 This simple dice game was my final project during the 1st Phase of the SoftStack Program.
-https://github.com/SalMac86/SSF-FinalApp
+<a href="https://github.com/SalMac86/SSF-FinalApp">Final Project Repo</a>
 
 ### CV
 
@@ -84,7 +84,7 @@ __Chicago Title__
 * <i class="fa fa-envelope"></i> <a href="mailto:">salvatore.mccarty@gmail.com</a><br />
 * <i class="fa fa-github"></i> <a href="http://github.com/SalMac86">SalMac86</a><br />
 * <i class="fa fa-twitter"></i> <a href="http://twitter.com/salvatoremccar3">salvatoremccar3</a><br />
-* <i class="fa fa-stack-overflow"></i> <a href="https://stackoverflow.com/users/6126907/salvatore-mccarty">salvatore-mccarty</a>
-* <i class="fa fa-home"></i>< <a href="http://salvatoremccarty.com">salvatoremccarty.com />
+* <i class="fa fa-stack-overflow"></i> <a href="https://stackoverflow.com/users/6126907/salvatore-mccarty">salvatore-mccarty</a><br />
+* <i class="fa fa-home"></i>< <a href="http://salvatoremccarty.com">salvatoremccarty.com</a>
 
 
