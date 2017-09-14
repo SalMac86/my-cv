@@ -19,7 +19,7 @@ Software Development Student and Technology aficionado
 
 ## Currently
 
-I'm attending the SoftStack Factory March 2017 cohort, due to finish around June 2017. During this course, I have become very comfortable with the MEAN stack and found a new passion in RegexGolf.
+I'm assisting with the SoftStack Factory Fall 2017 cohort, a 24 week full stack bootcamp. I will be helping attendees learn the basics of web technology, including Front- and Back-End Development.
 
 ## Education
 
@@ -43,6 +43,17 @@ __SoftStack Factory__ Full Stack Bootcamp
 
 ## Projects
 
+### PersonaTest
+
+This was a group project that used Node.js, Ionic/Angular, and MongoDB to create a personality inventory test that could be used for entertainment, or potentially for hiring purposes.
+https://github.com/SoftStackFactory/PersonaTest-UI
+https://github.com/SoftStackFactory/Pt-Backend
+
+### Farkle (Ten Thousand)
+
+This simple dice game was my final project during the 1st Phase of the SoftStack Program.
+https://github.com/SalMac86/SSF-FinalApp
+
 ### CV
 
 I created a this web page to show off my CV.  
@@ -53,9 +64,13 @@ AP Calculus AB Exam - 5/5
 
 ## Experience
 
+`2017`
+__SoftStack Factory__
+Assistant facilitator for Full Stack Web Dev Boot Camp.
+
 `2016-17`
 __Chicago Title__ 
- Working in Customer Service for a national Title Insurance & Escrow company.
+ Working in Customer Service for a National Title Insurance & Escrow company.
 
 ## Hobbies
 
@@ -69,4 +84,6 @@ __Chicago Title__
 * <i class="fa fa-github"></i> <a href="http://github.com/SalMac86">SalMac86</a><br />
 * <i class="fa fa-twitter"></i> <a href="http://twitter.com/salvatoremccar3">salvatoremccar3</a><br />
 * <i class="fa fa-stack-overflow"></i> <a href="https://stackoverflow.com/users/6126907/salvatore-mccarty">salvatore-mccarty</a>
+* <i class="fa fa-home"></i>< <a href="http://salvatoremccarty.com">salvatoremccarty.com />
+
 
