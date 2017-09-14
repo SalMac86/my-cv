@@ -36,18 +36,19 @@ __SoftStack Factory__ Full Stack Bootcamp
 
 * HTML and CSS
 * Javascript
+* Node.js
 * Ruby
 * MS Excel VBA
-* Cisco
-* PowerShell
+* Angular
+* Ionic
 
 ## Projects
 
 ### PersonaTest
 
 This was a group project that used Node.js, Ionic/Angular, and MongoDB to create a personality inventory test that could be used for entertainment, or potentially for hiring purposes.
-https://github.com/SoftStackFactory/PersonaTest-UI
-https://github.com/SoftStackFactory/Pt-Backend
+<a href="https://github.com/SoftStackFactory/PersonaTest-UI">Front End Git Repo</a>
+<a href="https://github.com/SoftStackFactory/Pt-Backend">Back End Git Repo</a>
 
 ### Farkle (Ten Thousand)
 
